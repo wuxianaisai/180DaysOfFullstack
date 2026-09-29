@@ -10,8 +10,8 @@
 
 ![Days](https://img.shields.io/badge/Days-1%2F180-111111?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-111111?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Fullstack-111111?style=flat-square)
-![Commits](https://img.shields.io/badge/Commits-Daily-111111?style=flat-square)
+![Commits](https://img.shields.io/github/commit-activity/y/USERNAME/REPOSITORY?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/USERNAME/REPOSITORY?style=flat-square)
 
 </div>
 
