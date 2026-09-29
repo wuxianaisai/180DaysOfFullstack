@@ -8,9 +8,10 @@
 
 <br>
 
-![Days](https://img.shields.io/badge/Days-0%2F180-111111?style=flat-square)
+![Days](https://img.shields.io/badge/Days-1%2F180-111111?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-111111?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Fullstack-111111?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits-Daily-111111?style=flat-square)
 
 </div>
 
